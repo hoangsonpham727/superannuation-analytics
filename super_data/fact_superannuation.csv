@@ -1,0 +1,1001 @@
+fact_id,fund_type_name,table_group_name,metric_name,is_subcategory,value_unit,quarter,date,year,month,fin_year,quarter_label,value
+28704,"All Funds","Performance Ratios","Administration and operating expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,682.00
+28703,"All Funds","Performance Ratios","Administration and operating expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,682.00
+4377,"All Funds","Financial Performance","Administration and operating expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,682.00
+4378,"All Funds","Financial Performance","Administration and operating expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,682.00
+2138,"All Funds","Financial Performance","Benefit payments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,8460.00
+2137,"All Funds","Financial Performance","Benefit payments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,8460.00
+28023,"All Funds","Performance Ratios","Cash flow adjusted net assets",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,462205.00
+28024,"All Funds","Performance Ratios","Cash flow adjusted net assets",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,462205.00
+1365,"All Funds","Financial Performance","Contribution tax and surcharge",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,1041.00
+1366,"All Funds","Financial Performance","Contribution tax and surcharge",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,1041.00
+342,"All Funds","Financial Performance",Employer,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,8381.00
+341,"All Funds","Financial Performance",Employer,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,8381.00
+4717,"All Funds","Financial Performance","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,767.00
+28874,"All Funds","Performance Ratios","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,767.00
+28873,"All Funds","Performance Ratios","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,767.00
+4718,"All Funds","Financial Performance","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,767.00
+28363,"All Funds","Performance Ratios","Investment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,275.00
+28364,"All Funds","Performance Ratios","Investment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,275.00
+4038,"All Funds","Financial Performance","Investment expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,275.00
+4037,"All Funds","Financial Performance","Investment expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,275.00
+3427,"All Funds","Financial Performance","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,27397.00
+3428,"All Funds","Financial Performance","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,27397.00
+28194,"All Funds","Performance Ratios","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,27397.00
+28193,"All Funds","Performance Ratios","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,27397.00
+3598,"All Funds","Financial Performance","Investment income after impairment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5078.00
+3597,"All Funds","Financial Performance","Investment income after impairment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5078.00
+3087,"All Funds","Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,148.00
+1797,"All Funds","Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,9064.00
+1798,"All Funds","Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,9064.00
+3088,"All Funds","Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,148.00
+2308,"All Funds","Financial Performance","Lump sums",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5890.00
+2307,"All Funds","Financial Performance","Lump sums",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5890.00
+795,"All Funds","Financial Performance",Member,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4665.00
+796,"All Funds","Financial Performance",Member,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4665.00
+27683,"All Funds","Performance Ratios","Net assets at beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,459478.00
+27684,"All Funds","Performance Ratios","Net assets at beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,459478.00
+2,"All Funds","Financial Performance","Net assets at the beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,459478.00
+1,"All Funds","Financial Performance","Net assets at the beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,459478.00
+5397,"All Funds","Financial Performance","Net assets at the end of the quarter",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,491615.00
+5398,"All Funds","Financial Performance","Net assets at the end of the quarter",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,491615.00
+1536,"All Funds","Financial Performance","Net benefit transfers",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2098.00
+1535,"All Funds","Financial Performance","Net benefit transfers",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2098.00
+27854,"All Funds","Performance Ratios","Net cash flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5453.00
+27853,"All Funds","Performance Ratios","Net cash flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5453.00
+2747,"All Funds","Financial Performance","Net contribution flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,6685.00
+2748,"All Funds","Financial Performance","Net contribution flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,6685.00
+4548,"All Funds","Financial Performance","Net earnings",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,26509.00
+4547,"All Funds","Financial Performance","Net earnings",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,26509.00
+4887,"All Funds","Financial Performance","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,25742.00
+4888,"All Funds","Financial Performance","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,25742.00
+29043,"All Funds","Performance Ratios","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,25742.00
+29044,"All Funds","Performance Ratios","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,25742.00
+2918,"All Funds","Financial Performance","Net insurance flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-191.00
+2917,"All Funds","Financial Performance","Net insurance flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-191.00
+5057,"All Funds","Financial Performance","Net operating performance after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,31195.00
+5058,"All Funds","Financial Performance","Net operating performance after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,31195.00
+4208,"All Funds","Financial Performance","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,70.00
+4207,"All Funds","Financial Performance","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,70.00
+28534,"All Funds","Performance Ratios","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,70.00
+28533,"All Funds","Performance Ratios","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,70.00
+5227,"All Funds","Financial Performance","Other changes",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,942.00
+5228,"All Funds","Financial Performance","Other changes",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,942.00
+1968,"All Funds","Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,6966.00
+3258,"All Funds","Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,339.00
+3257,"All Funds","Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,339.00
+1967,"All Funds","Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,6966.00
+2477,"All Funds","Financial Performance",Pensions,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2570.00
+2478,"All Funds","Financial Performance",Pensions,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2570.00
+29213,"All Funds","Performance Ratios","Rate of Return (%)",0,%,"Dec 2004",2004-12-01,2004,12,2005,Q2,0.06
+29214,"All Funds","Performance Ratios","Rate of Return (%)",0,%,"Dec 2004",2004-12-01,2004,12,2005,Q2,0.06
+171,"All Funds","Financial Performance","Total contributions",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,13047.00
+172,"All Funds","Financial Performance","Total contributions",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,13047.00
+3768,"All Funds","Financial Performance","Total gains/losses on investments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,22319.00
+3767,"All Funds","Financial Performance","Total gains/losses on investments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,22319.00
+30536,Corporate,"Performance Ratios","Administration and operating expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,35.00
+30535,Corporate,"Performance Ratios","Administration and operating expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,35.00
+9944,Corporate,"Financial Performance","Administration and operating expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,35.00
+9943,Corporate,"Financial Performance","Administration and operating expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,35.00
+7703,Corporate,"Financial Performance","Benefit payments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,240.00
+7704,Corporate,"Financial Performance","Benefit payments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,240.00
+29855,Corporate,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,39525.00
+29856,Corporate,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,39525.00
+6932,Corporate,"Financial Performance","Contribution tax and surcharge",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,112.00
+6931,Corporate,"Financial Performance","Contribution tax and surcharge",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,112.00
+5907,Corporate,"Financial Performance",Employer,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,809.00
+5908,Corporate,"Financial Performance",Employer,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,809.00
+10284,Corporate,"Financial Performance","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,112.00
+10283,Corporate,"Financial Performance","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,112.00
+30705,Corporate,"Performance Ratios","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,112.00
+30706,Corporate,"Performance Ratios","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,112.00
+30196,Corporate,"Performance Ratios","Investment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,46.00
+30195,Corporate,"Performance Ratios","Investment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,46.00
+9604,Corporate,"Financial Performance","Investment expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,46.00
+9603,Corporate,"Financial Performance","Investment expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,46.00
+8993,Corporate,"Financial Performance","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2433.00
+30026,Corporate,"Performance Ratios","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2433.00
+30025,Corporate,"Performance Ratios","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2433.00
+8994,Corporate,"Financial Performance","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2433.00
+9164,Corporate,"Financial Performance","Investment income after impairment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,471.00
+9163,Corporate,"Financial Performance","Investment income after impairment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,471.00
+8653,Corporate,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,15.00
+7363,Corporate,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,186.00
+7364,Corporate,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,186.00
+8654,Corporate,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,15.00
+7874,Corporate,"Financial Performance","Lump sums",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,174.00
+7873,Corporate,"Financial Performance","Lump sums",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,174.00
+6361,Corporate,"Financial Performance",Member,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,60.00
+6362,Corporate,"Financial Performance",Member,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,60.00
+29515,Corporate,"Performance Ratios","Net assets at beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,39567.00
+29516,Corporate,"Performance Ratios","Net assets at beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,39567.00
+5567,Corporate,"Financial Performance","Net assets at the beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,39567.00
+5568,Corporate,"Financial Performance","Net assets at the beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,39567.00
+10964,Corporate,"Financial Performance","Net assets at the end of the quarter",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,41560.00
+10963,Corporate,"Financial Performance","Net assets at the end of the quarter",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,41560.00
+7101,Corporate,"Financial Performance","Net benefit transfers",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-603.00
+7102,Corporate,"Financial Performance","Net benefit transfers",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-603.00
+29686,Corporate,"Performance Ratios","Net cash flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-84.00
+29685,Corporate,"Performance Ratios","Net cash flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-84.00
+8314,Corporate,"Financial Performance","Net contribution flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,26.00
+8313,Corporate,"Financial Performance","Net contribution flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,26.00
+10113,Corporate,"Financial Performance","Net earnings",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2358.00
+10114,Corporate,"Financial Performance","Net earnings",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2358.00
+10454,Corporate,"Financial Performance","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2246.00
+30876,Corporate,"Performance Ratios","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2246.00
+30875,Corporate,"Performance Ratios","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2246.00
+10453,Corporate,"Financial Performance","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2246.00
+8483,Corporate,"Financial Performance","Net insurance flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2.00
+8484,Corporate,"Financial Performance","Net insurance flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2.00
+10624,Corporate,"Financial Performance","Net operating performance after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2162.00
+10623,Corporate,"Financial Performance","Net operating performance after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2162.00
+9773,Corporate,"Financial Performance","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,6.00
+9774,Corporate,"Financial Performance","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,6.00
+30365,Corporate,"Performance Ratios","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,6.00
+30366,Corporate,"Performance Ratios","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,6.00
+10793,Corporate,"Financial Performance","Other changes",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-169.00
+10794,Corporate,"Financial Performance","Other changes",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-169.00
+7534,Corporate,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,789.00
+8824,Corporate,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,13.00
+7533,Corporate,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,789.00
+8823,Corporate,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,13.00
+8043,Corporate,"Financial Performance",Pensions,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,67.00
+8044,Corporate,"Financial Performance",Pensions,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,67.00
+31046,Corporate,"Performance Ratios","Rate of Return (%)",0,%,"Dec 2004",2004-12-01,2004,12,2005,Q2,0.06
+31045,Corporate,"Performance Ratios","Rate of Return (%)",0,%,"Dec 2004",2004-12-01,2004,12,2005,Q2,0.06
+5738,Corporate,"Financial Performance","Total contributions",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,869.00
+5737,Corporate,"Financial Performance","Total contributions",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,869.00
+9333,Corporate,"Financial Performance","Total gains/losses on investments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,1962.00
+9334,Corporate,"Financial Performance","Total gains/losses on investments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,1962.00
+32356,Industry,"Performance Ratios","Administration and operating expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,127.00
+32355,Industry,"Performance Ratios","Administration and operating expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,127.00
+15449,Industry,"Financial Performance","Administration and operating expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,127.00
+15450,Industry,"Financial Performance","Administration and operating expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,127.00
+13238,Industry,"Financial Performance","Benefit payments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,626.00
+13237,Industry,"Financial Performance","Benefit payments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,626.00
+31683,Industry,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,92166.00
+31684,Industry,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,92166.00
+12475,Industry,"Financial Performance","Contribution tax and surcharge",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,403.00
+12476,Industry,"Financial Performance","Contribution tax and surcharge",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,403.00
+11470,Industry,"Financial Performance",Employer,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2809.00
+11469,Industry,"Financial Performance",Employer,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2809.00
+15785,Industry,"Financial Performance","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,267.00
+32524,Industry,"Performance Ratios","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,267.00
+32523,Industry,"Performance Ratios","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,267.00
+15786,Industry,"Financial Performance","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,267.00
+32019,Industry,"Performance Ratios","Investment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,82.00
+32020,Industry,"Performance Ratios","Investment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,82.00
+15114,Industry,"Financial Performance","Investment expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,82.00
+15113,Industry,"Financial Performance","Investment expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,82.00
+14511,Industry,"Financial Performance","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5941.00
+14512,Industry,"Financial Performance","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5941.00
+31852,Industry,"Performance Ratios","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5941.00
+31851,Industry,"Performance Ratios","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5941.00
+14680,Industry,"Financial Performance","Investment income after impairment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,1296.00
+14679,Industry,"Financial Performance","Investment income after impairment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,1296.00
+12901,Industry,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,1209.00
+14175,Industry,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,53.00
+14176,Industry,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,53.00
+12902,Industry,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,1209.00
+13406,Industry,"Financial Performance","Lump sums",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,558.00
+13405,Industry,"Financial Performance","Lump sums",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,558.00
+11915,Industry,"Financial Performance",Member,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,313.00
+11916,Industry,"Financial Performance",Member,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,313.00
+31347,Industry,"Performance Ratios","Net assets at beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,90893.00
+31348,Industry,"Performance Ratios","Net assets at beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,90893.00
+11134,Industry,"Financial Performance","Net assets at the beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,90893.00
+11133,Industry,"Financial Performance","Net assets at the beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,90893.00
+16457,Industry,"Financial Performance","Net assets at the end of the quarter",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,99197.00
+16458,Industry,"Financial Performance","Net assets at the end of the quarter",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,99197.00
+12644,Industry,"Financial Performance","Net benefit transfers",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,533.00
+12643,Industry,"Financial Performance","Net benefit transfers",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,533.00
+31516,Industry,"Performance Ratios","Net cash flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2545.00
+31515,Industry,"Performance Ratios","Net cash flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2545.00
+13839,Industry,"Financial Performance","Net contribution flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,3028.00
+13840,Industry,"Financial Performance","Net contribution flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,3028.00
+15618,Industry,"Financial Performance","Net earnings",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5736.00
+15617,Industry,"Financial Performance","Net earnings",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5736.00
+15953,Industry,"Financial Performance","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5469.00
+15954,Industry,"Financial Performance","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5469.00
+32692,Industry,"Performance Ratios","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5469.00
+32691,Industry,"Performance Ratios","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5469.00
+14008,Industry,"Financial Performance","Net insurance flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-80.00
+14007,Industry,"Financial Performance","Net insurance flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-80.00
+16121,Industry,"Financial Performance","Net operating performance after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,8014.00
+16122,Industry,"Financial Performance","Net operating performance after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,8014.00
+15282,Industry,"Financial Performance","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4.00
+15281,Industry,"Financial Performance","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4.00
+32187,Industry,"Performance Ratios","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4.00
+32188,Industry,"Performance Ratios","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4.00
+16289,Industry,"Financial Performance","Other changes",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,289.00
+16290,Industry,"Financial Performance","Other changes",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,289.00
+13070,Industry,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,676.00
+14344,Industry,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,132.00
+13069,Industry,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,676.00
+14343,Industry,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,132.00
+13573,Industry,"Financial Performance",Pensions,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,68.00
+13574,Industry,"Financial Performance",Pensions,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,68.00
+32860,Industry,"Performance Ratios","Rate of Return (%)",0,%,"Dec 2004",2004-12-01,2004,12,2005,Q2,0.06
+32859,Industry,"Performance Ratios","Rate of Return (%)",0,%,"Dec 2004",2004-12-01,2004,12,2005,Q2,0.06
+11301,Industry,"Financial Performance","Total contributions",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,3122.00
+11302,Industry,"Financial Performance","Total contributions",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,3122.00
+14848,Industry,"Financial Performance","Total gains/losses on investments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4645.00
+14847,Industry,"Financial Performance","Total gains/losses on investments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4645.00
+34166,"Public Sector","Performance Ratios","Administration and operating expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,91.00
+34165,"Public Sector","Performance Ratios","Administration and operating expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,91.00
+20942,"Public Sector","Financial Performance","Administration and operating expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,91.00
+20941,"Public Sector","Financial Performance","Administration and operating expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,91.00
+18729,"Public Sector","Financial Performance","Benefit payments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2411.00
+18730,"Public Sector","Financial Performance","Benefit payments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2411.00
+33493,"Public Sector","Performance Ratios","Cash flow adjusted net assets",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,113326.00
+33494,"Public Sector","Performance Ratios","Cash flow adjusted net assets",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,113326.00
+17968,"Public Sector","Financial Performance","Contribution tax and surcharge",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,137.00
+17967,"Public Sector","Financial Performance","Contribution tax and surcharge",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,137.00
+16961,"Public Sector","Financial Performance",Employer,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2132.00
+16962,"Public Sector","Financial Performance",Employer,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2132.00
+21278,"Public Sector","Financial Performance","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,175.00
+34333,"Public Sector","Performance Ratios","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,175.00
+34334,"Public Sector","Performance Ratios","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,175.00
+21277,"Public Sector","Financial Performance","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,175.00
+33830,"Public Sector","Performance Ratios","Investment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,82.00
+33829,"Public Sector","Performance Ratios","Investment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,82.00
+20606,"Public Sector","Financial Performance","Investment expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,82.00
+20605,"Public Sector","Financial Performance","Investment expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,82.00
+20003,"Public Sector","Financial Performance","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7434.00
+33661,"Public Sector","Performance Ratios","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7434.00
+33662,"Public Sector","Performance Ratios","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7434.00
+20004,"Public Sector","Financial Performance","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7434.00
+20172,"Public Sector","Financial Performance","Investment income after impairment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2460.00
+20171,"Public Sector","Financial Performance","Investment income after impairment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2460.00
+18393,"Public Sector","Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,338.00
+19667,"Public Sector","Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7.00
+19668,"Public Sector","Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7.00
+18394,"Public Sector","Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,338.00
+18898,"Public Sector","Financial Performance","Lump sums",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,607.00
+18897,"Public Sector","Financial Performance","Lump sums",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,607.00
+17407,"Public Sector","Financial Performance",Member,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,920.00
+17408,"Public Sector","Financial Performance",Member,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,920.00
+33158,"Public Sector","Performance Ratios","Net assets at beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,113239.00
+33157,"Public Sector","Performance Ratios","Net assets at beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,113239.00
+16625,"Public Sector","Financial Performance","Net assets at the beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,113239.00
+16626,"Public Sector","Financial Performance","Net assets at the beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,113239.00
+21950,"Public Sector","Financial Performance","Net assets at the end of the quarter",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,121285.00
+21949,"Public Sector","Financial Performance","Net assets at the end of the quarter",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,121285.00
+18135,"Public Sector","Financial Performance","Net benefit transfers",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-328.00
+18136,"Public Sector","Financial Performance","Net benefit transfers",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-328.00
+33325,"Public Sector","Performance Ratios","Net cash flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,174.00
+33326,"Public Sector","Performance Ratios","Net cash flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,174.00
+19332,"Public Sector","Financial Performance","Net contribution flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,313.00
+19331,"Public Sector","Financial Performance","Net contribution flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,313.00
+21109,"Public Sector","Financial Performance","Net earnings",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7281.00
+21110,"Public Sector","Financial Performance","Net earnings",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7281.00
+21446,"Public Sector","Financial Performance","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7106.00
+34502,"Public Sector","Performance Ratios","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7106.00
+34501,"Public Sector","Performance Ratios","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7106.00
+21445,"Public Sector","Financial Performance","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7106.00
+19499,"Public Sector","Financial Performance","Net insurance flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-2.00
+19500,"Public Sector","Financial Performance","Net insurance flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-2.00
+21614,"Public Sector","Financial Performance","Net operating performance after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7280.00
+21613,"Public Sector","Financial Performance","Net operating performance after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7280.00
+20773,"Public Sector","Financial Performance","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,20.00
+20774,"Public Sector","Financial Performance","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,20.00
+33997,"Public Sector","Performance Ratios","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,20.00
+33998,"Public Sector","Performance Ratios","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,20.00
+21781,"Public Sector","Financial Performance","Other changes",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,766.00
+21782,"Public Sector","Financial Performance","Other changes",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,766.00
+18562,"Public Sector","Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,667.00
+19836,"Public Sector","Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,8.00
+18561,"Public Sector","Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,667.00
+19835,"Public Sector","Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,8.00
+19065,"Public Sector","Financial Performance",Pensions,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,1804.00
+19066,"Public Sector","Financial Performance",Pensions,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,1804.00
+34670,"Public Sector","Performance Ratios","Rate of Return (%)",0,%,"Dec 2004",2004-12-01,2004,12,2005,Q2,0.06
+34669,"Public Sector","Performance Ratios","Rate of Return (%)",0,%,"Dec 2004",2004-12-01,2004,12,2005,Q2,0.06
+16794,"Public Sector","Financial Performance","Total contributions",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,3052.00
+16793,"Public Sector","Financial Performance","Total contributions",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,3052.00
+20339,"Public Sector","Financial Performance","Total gains/losses on investments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4974.00
+20340,"Public Sector","Financial Performance","Total gains/losses on investments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4974.00
+35988,Retail,"Performance Ratios","Administration and operating expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,429.00
+35987,Retail,"Performance Ratios","Administration and operating expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,429.00
+26493,Retail,"Financial Performance","Administration and operating expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,429.00
+26494,Retail,"Financial Performance","Administration and operating expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,429.00
+24254,Retail,"Financial Performance","Benefit payments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5182.00
+24253,Retail,"Financial Performance","Benefit payments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,5182.00
+35307,Retail,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,217188.00
+35308,Retail,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,217188.00
+23481,Retail,"Financial Performance","Contribution tax and surcharge",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,389.00
+23482,Retail,"Financial Performance","Contribution tax and surcharge",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,389.00
+22458,Retail,"Financial Performance",Employer,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2632.00
+22457,Retail,"Financial Performance",Employer,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2632.00
+36157,Retail,"Performance Ratios","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,212.00
+36158,Retail,"Performance Ratios","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,212.00
+26834,Retail,"Financial Performance","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,212.00
+26833,Retail,"Financial Performance","Income tax expense/benefit",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,212.00
+35648,Retail,"Performance Ratios","Investment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,65.00
+35647,Retail,"Performance Ratios","Investment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,65.00
+26153,Retail,"Financial Performance","Investment expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,65.00
+26154,Retail,"Financial Performance","Investment expenses",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,65.00
+25544,Retail,"Financial Performance","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,11589.00
+25543,Retail,"Financial Performance","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,11589.00
+35478,Retail,"Performance Ratios","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,11589.00
+35477,Retail,"Performance Ratios","Investment income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,11589.00
+25713,Retail,"Financial Performance","Investment income after impairment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,851.00
+25714,Retail,"Financial Performance","Investment income after impairment expense",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,851.00
+23914,Retail,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7332.00
+25204,Retail,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,74.00
+23913,Retail,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,7332.00
+25203,Retail,"Financial Performance",Inward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,74.00
+24423,Retail,"Financial Performance","Lump sums",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4551.00
+24424,Retail,"Financial Performance","Lump sums",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4551.00
+22912,Retail,"Financial Performance",Member,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,3372.00
+22911,Retail,"Financial Performance",Member,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,3372.00
+34967,Retail,"Performance Ratios","Net assets at beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,215779.00
+34968,Retail,"Performance Ratios","Net assets at beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,215779.00
+22117,Retail,"Financial Performance","Net assets at the beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,215779.00
+22118,Retail,"Financial Performance","Net assets at the beginning of the period",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,215779.00
+27514,Retail,"Financial Performance","Net assets at the end of the quarter",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,229573.00
+27513,Retail,"Financial Performance","Net assets at the end of the quarter",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,229573.00
+23651,Retail,"Financial Performance","Net benefit transfers",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2497.00
+23652,Retail,"Financial Performance","Net benefit transfers",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2497.00
+35138,Retail,"Performance Ratios","Net cash flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2818.00
+35137,Retail,"Performance Ratios","Net cash flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,2818.00
+24863,Retail,"Financial Performance","Net contribution flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,3318.00
+24864,Retail,"Financial Performance","Net contribution flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,3318.00
+26664,Retail,"Financial Performance","Net earnings",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,11135.00
+26663,Retail,"Financial Performance","Net earnings",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,11135.00
+27003,Retail,"Financial Performance","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,10922.00
+36328,Retail,"Performance Ratios","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,10922.00
+36327,Retail,"Performance Ratios","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,10922.00
+27004,Retail,"Financial Performance","Net earnings after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,10922.00
+25034,Retail,"Financial Performance","Net insurance flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-111.00
+25033,Retail,"Financial Performance","Net insurance flows",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,-111.00
+27173,Retail,"Financial Performance","Net operating performance after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,13740.00
+27174,Retail,"Financial Performance","Net operating performance after tax",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,13740.00
+26324,Retail,"Financial Performance","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,39.00
+26323,Retail,"Financial Performance","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,39.00
+35817,Retail,"Performance Ratios","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,39.00
+35818,Retail,"Performance Ratios","Operating income",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,39.00
+27344,Retail,"Financial Performance","Other changes",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,54.00
+27343,Retail,"Financial Performance","Other changes",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,54.00
+24084,Retail,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4835.00
+25374,Retail,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,185.00
+24083,Retail,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,4835.00
+25373,Retail,"Financial Performance",Outward,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,185.00
+24593,Retail,"Financial Performance",Pensions,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,631.00
+24594,Retail,"Financial Performance",Pensions,0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,631.00
+36498,Retail,"Performance Ratios","Rate of Return (%)",0,%,"Dec 2004",2004-12-01,2004,12,2005,Q2,0.05
+36497,Retail,"Performance Ratios","Rate of Return (%)",0,%,"Dec 2004",2004-12-01,2004,12,2005,Q2,0.05
+22288,Retail,"Financial Performance","Total contributions",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,6004.00
+22287,Retail,"Financial Performance","Total contributions",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,6004.00
+25883,Retail,"Financial Performance","Total gains/losses on investments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,10739.00
+25884,Retail,"Financial Performance","Total gains/losses on investments",0,$m,"Dec 2004",2004-12-01,2004,12,2005,Q2,10739.00
+28706,"All Funds","Performance Ratios","Administration and operating expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,672.00
+28705,"All Funds","Performance Ratios","Administration and operating expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,672.00
+4379,"All Funds","Financial Performance","Administration and operating expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,672.00
+4380,"All Funds","Financial Performance","Administration and operating expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,672.00
+2140,"All Funds","Financial Performance","Benefit payments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3891.00
+2139,"All Funds","Financial Performance","Benefit payments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3891.00
+28025,"All Funds","Performance Ratios","Cash flow adjusted net assets",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,494104.00
+28026,"All Funds","Performance Ratios","Cash flow adjusted net assets",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,494104.00
+1367,"All Funds","Financial Performance","Contribution tax and surcharge",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1344.00
+1368,"All Funds","Financial Performance","Contribution tax and surcharge",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1344.00
+344,"All Funds","Financial Performance",Employer,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,8799.00
+343,"All Funds","Financial Performance",Employer,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,8799.00
+4719,"All Funds","Financial Performance","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,488.00
+28876,"All Funds","Performance Ratios","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,488.00
+28875,"All Funds","Performance Ratios","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,488.00
+4720,"All Funds","Financial Performance","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,488.00
+28365,"All Funds","Performance Ratios","Investment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,286.00
+28366,"All Funds","Performance Ratios","Investment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,286.00
+4040,"All Funds","Financial Performance","Investment expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,286.00
+4039,"All Funds","Financial Performance","Investment expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,286.00
+3429,"All Funds","Financial Performance","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,6873.00
+3430,"All Funds","Financial Performance","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,6873.00
+28196,"All Funds","Performance Ratios","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,6873.00
+28195,"All Funds","Performance Ratios","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,6873.00
+3600,"All Funds","Financial Performance","Investment income after impairment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2932.00
+3599,"All Funds","Financial Performance","Investment income after impairment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2932.00
+1799,"All Funds","Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,9563.00
+3089,"All Funds","Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,144.00
+3090,"All Funds","Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,144.00
+1800,"All Funds","Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,9563.00
+2310,"All Funds","Financial Performance","Lump sums",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1422.00
+2309,"All Funds","Financial Performance","Lump sums",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1422.00
+797,"All Funds","Financial Performance",Member,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3267.00
+798,"All Funds","Financial Performance",Member,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3267.00
+27685,"All Funds","Performance Ratios","Net assets at beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,491615.00
+27686,"All Funds","Performance Ratios","Net assets at beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,491615.00
+4,"All Funds","Financial Performance","Net assets at the beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,491615.00
+3,"All Funds","Financial Performance","Net assets at the beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,491615.00
+5399,"All Funds","Financial Performance","Net assets at the end of the quarter",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,506506.00
+5400,"All Funds","Financial Performance","Net assets at the end of the quarter",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,506506.00
+1538,"All Funds","Financial Performance","Net benefit transfers",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-1645.00
+1537,"All Funds","Financial Performance","Net benefit transfers",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-1645.00
+27856,"All Funds","Performance Ratios","Net cash flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,4978.00
+27855,"All Funds","Performance Ratios","Net cash flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,4978.00
+2749,"All Funds","Financial Performance","Net contribution flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,6530.00
+2750,"All Funds","Financial Performance","Net contribution flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,6530.00
+4550,"All Funds","Financial Performance","Net earnings",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5976.00
+4549,"All Funds","Financial Performance","Net earnings",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5976.00
+4889,"All Funds","Financial Performance","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5488.00
+4890,"All Funds","Financial Performance","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5488.00
+29045,"All Funds","Performance Ratios","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5488.00
+29046,"All Funds","Performance Ratios","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5488.00
+2920,"All Funds","Financial Performance","Net insurance flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-208.00
+2919,"All Funds","Financial Performance","Net insurance flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-208.00
+5059,"All Funds","Financial Performance","Net operating performance after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,10466.00
+5060,"All Funds","Financial Performance","Net operating performance after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,10466.00
+4210,"All Funds","Financial Performance","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,61.00
+4209,"All Funds","Financial Performance","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,61.00
+28536,"All Funds","Performance Ratios","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,61.00
+28535,"All Funds","Performance Ratios","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,61.00
+5229,"All Funds","Financial Performance","Other changes",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,4425.00
+5230,"All Funds","Financial Performance","Other changes",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,4425.00
+1970,"All Funds","Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,11207.00
+3260,"All Funds","Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,352.00
+3259,"All Funds","Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,352.00
+1969,"All Funds","Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,11207.00
+2479,"All Funds","Financial Performance",Pensions,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2469.00
+2480,"All Funds","Financial Performance",Pensions,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2469.00
+29215,"All Funds","Performance Ratios","Rate of Return (%)",0,%,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.01
+29216,"All Funds","Performance Ratios","Rate of Return (%)",0,%,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.01
+173,"All Funds","Financial Performance","Total contributions",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,12065.00
+174,"All Funds","Financial Performance","Total contributions",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,12065.00
+3770,"All Funds","Financial Performance","Total gains/losses on investments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3941.00
+3769,"All Funds","Financial Performance","Total gains/losses on investments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3941.00
+30537,Corporate,"Performance Ratios","Administration and operating expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,25.00
+30538,Corporate,"Performance Ratios","Administration and operating expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,25.00
+9946,Corporate,"Financial Performance","Administration and operating expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,25.00
+9945,Corporate,"Financial Performance","Administration and operating expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,25.00
+7705,Corporate,"Financial Performance","Benefit payments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,191.00
+7706,Corporate,"Financial Performance","Benefit payments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,191.00
+29858,Corporate,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,41357.00
+29857,Corporate,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,41357.00
+6934,Corporate,"Financial Performance","Contribution tax and surcharge",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,144.00
+6933,Corporate,"Financial Performance","Contribution tax and surcharge",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,144.00
+5909,Corporate,"Financial Performance",Employer,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,594.00
+5910,Corporate,"Financial Performance",Employer,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,594.00
+10286,Corporate,"Financial Performance","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,30.00
+10285,Corporate,"Financial Performance","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,30.00
+30708,Corporate,"Performance Ratios","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,30.00
+30707,Corporate,"Performance Ratios","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,30.00
+30197,Corporate,"Performance Ratios","Investment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,39.00
+30198,Corporate,"Performance Ratios","Investment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,39.00
+9606,Corporate,"Financial Performance","Investment expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,39.00
+9605,Corporate,"Financial Performance","Investment expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,39.00
+8995,Corporate,"Financial Performance","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,602.00
+30028,Corporate,"Performance Ratios","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,602.00
+30027,Corporate,"Performance Ratios","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,602.00
+8996,Corporate,"Financial Performance","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,602.00
+9166,Corporate,"Financial Performance","Investment income after impairment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,356.00
+9165,Corporate,"Financial Performance","Investment income after impairment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,356.00
+8655,Corporate,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,11.00
+7365,Corporate,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,114.00
+8656,Corporate,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,11.00
+7366,Corporate,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,114.00
+7876,Corporate,"Financial Performance","Lump sums",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,129.00
+7875,Corporate,"Financial Performance","Lump sums",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,129.00
+6363,Corporate,"Financial Performance",Member,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,68.00
+6364,Corporate,"Financial Performance",Member,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,68.00
+29517,Corporate,"Performance Ratios","Net assets at beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,41560.00
+29518,Corporate,"Performance Ratios","Net assets at beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,41560.00
+5569,Corporate,"Financial Performance","Net assets at the beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,41560.00
+5570,Corporate,"Financial Performance","Net assets at the beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,41560.00
+10966,Corporate,"Financial Performance","Net assets at the end of the quarter",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,41101.00
+10965,Corporate,"Financial Performance","Net assets at the end of the quarter",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,41101.00
+7103,Corporate,"Financial Performance","Net benefit transfers",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-733.00
+7104,Corporate,"Financial Performance","Net benefit transfers",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-733.00
+29687,Corporate,"Performance Ratios","Net cash flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-405.00
+29688,Corporate,"Performance Ratios","Net cash flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-405.00
+8316,Corporate,"Financial Performance","Net contribution flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-261.00
+8315,Corporate,"Financial Performance","Net contribution flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-261.00
+10115,Corporate,"Financial Performance","Net earnings",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,543.00
+10116,Corporate,"Financial Performance","Net earnings",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,543.00
+10456,Corporate,"Financial Performance","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,513.00
+30878,Corporate,"Performance Ratios","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,513.00
+30877,Corporate,"Performance Ratios","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,513.00
+10455,Corporate,"Financial Performance","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,513.00
+8485,Corporate,"Financial Performance","Net insurance flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.00
+8486,Corporate,"Financial Performance","Net insurance flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.00
+10626,Corporate,"Financial Performance","Net operating performance after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,108.00
+10625,Corporate,"Financial Performance","Net operating performance after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,108.00
+9775,Corporate,"Financial Performance","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5.00
+9776,Corporate,"Financial Performance","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5.00
+30367,Corporate,"Performance Ratios","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5.00
+30368,Corporate,"Performance Ratios","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5.00
+10795,Corporate,"Financial Performance","Other changes",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-567.00
+10796,Corporate,"Financial Performance","Other changes",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-567.00
+7536,Corporate,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,846.00
+8826,Corporate,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,10.00
+7535,Corporate,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,846.00
+8825,Corporate,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,10.00
+8045,Corporate,"Financial Performance",Pensions,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,61.00
+8046,Corporate,"Financial Performance",Pensions,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,61.00
+31047,Corporate,"Performance Ratios","Rate of Return (%)",0,%,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.01
+31048,Corporate,"Performance Ratios","Rate of Return (%)",0,%,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.01
+5740,Corporate,"Financial Performance","Total contributions",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,662.00
+5739,Corporate,"Financial Performance","Total contributions",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,662.00
+9335,Corporate,"Financial Performance","Total gains/losses on investments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,246.00
+9336,Corporate,"Financial Performance","Total gains/losses on investments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,246.00
+32357,Industry,"Performance Ratios","Administration and operating expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,123.00
+32358,Industry,"Performance Ratios","Administration and operating expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,123.00
+15451,Industry,"Financial Performance","Administration and operating expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,123.00
+15452,Industry,"Financial Performance","Administration and operating expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,123.00
+13240,Industry,"Financial Performance","Benefit payments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,628.00
+13239,Industry,"Financial Performance","Benefit payments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,628.00
+31686,Industry,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,100647.00
+31685,Industry,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,100647.00
+12477,Industry,"Financial Performance","Contribution tax and surcharge",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,473.00
+12478,Industry,"Financial Performance","Contribution tax and surcharge",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,473.00
+11472,Industry,"Financial Performance",Employer,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2970.00
+11471,Industry,"Financial Performance",Employer,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2970.00
+15787,Industry,"Financial Performance","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,274.00
+32525,Industry,"Performance Ratios","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,274.00
+32526,Industry,"Performance Ratios","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,274.00
+15788,Industry,"Financial Performance","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,274.00
+32022,Industry,"Performance Ratios","Investment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,84.00
+32021,Industry,"Performance Ratios","Investment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,84.00
+15116,Industry,"Financial Performance","Investment expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,84.00
+15115,Industry,"Financial Performance","Investment expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,84.00
+14513,Industry,"Financial Performance","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3072.00
+14514,Industry,"Financial Performance","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3072.00
+31854,Industry,"Performance Ratios","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3072.00
+31853,Industry,"Performance Ratios","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3072.00
+14682,Industry,"Financial Performance","Investment income after impairment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1320.00
+14681,Industry,"Financial Performance","Investment income after impairment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1320.00
+12903,Industry,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1273.00
+14177,Industry,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,49.00
+12904,Industry,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1273.00
+14178,Industry,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,49.00
+13408,Industry,"Financial Performance","Lump sums",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,550.00
+13407,Industry,"Financial Performance","Lump sums",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,550.00
+11917,Industry,"Financial Performance",Member,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,403.00
+11918,Industry,"Financial Performance",Member,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,403.00
+31349,Industry,"Performance Ratios","Net assets at beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,99197.00
+31350,Industry,"Performance Ratios","Net assets at beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,99197.00
+11136,Industry,"Financial Performance","Net assets at the beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,99197.00
+11135,Industry,"Financial Performance","Net assets at the beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,99197.00
+16459,Industry,"Financial Performance","Net assets at the end of the quarter",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,107639.00
+16460,Industry,"Financial Performance","Net assets at the end of the quarter",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,107639.00
+12646,Industry,"Financial Performance","Net benefit transfers",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,688.00
+12645,Industry,"Financial Performance","Net benefit transfers",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,688.00
+31518,Industry,"Performance Ratios","Net cash flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2900.00
+31517,Industry,"Performance Ratios","Net cash flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2900.00
+13841,Industry,"Financial Performance","Net contribution flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3433.00
+13842,Industry,"Financial Performance","Net contribution flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3433.00
+15620,Industry,"Financial Performance","Net earnings",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2875.00
+15619,Industry,"Financial Performance","Net earnings",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2875.00
+15955,Industry,"Financial Performance","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2601.00
+15956,Industry,"Financial Performance","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2601.00
+32694,Industry,"Performance Ratios","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2601.00
+32693,Industry,"Performance Ratios","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2601.00
+14010,Industry,"Financial Performance","Net insurance flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-60.00
+14009,Industry,"Financial Performance","Net insurance flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-60.00
+16123,Industry,"Financial Performance","Net operating performance after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5501.00
+16124,Industry,"Financial Performance","Net operating performance after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5501.00
+15284,Industry,"Financial Performance","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,10.00
+15283,Industry,"Financial Performance","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,10.00
+32189,Industry,"Performance Ratios","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,10.00
+32190,Industry,"Performance Ratios","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,10.00
+16291,Industry,"Financial Performance","Other changes",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2942.00
+16292,Industry,"Financial Performance","Other changes",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2942.00
+13072,Industry,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,586.00
+14346,Industry,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,109.00
+13071,Industry,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,586.00
+14345,Industry,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,109.00
+13575,Industry,"Financial Performance",Pensions,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,78.00
+13576,Industry,"Financial Performance",Pensions,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,78.00
+32862,Industry,"Performance Ratios","Rate of Return (%)",0,%,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.03
+32861,Industry,"Performance Ratios","Rate of Return (%)",0,%,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.03
+11303,Industry,"Financial Performance","Total contributions",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3373.00
+11304,Industry,"Financial Performance","Total contributions",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3373.00
+14850,Industry,"Financial Performance","Total gains/losses on investments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1751.00
+14849,Industry,"Financial Performance","Total gains/losses on investments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1751.00
+34167,"Public Sector","Performance Ratios","Administration and operating expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,87.00
+34168,"Public Sector","Performance Ratios","Administration and operating expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,87.00
+20944,"Public Sector","Financial Performance","Administration and operating expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,87.00
+20943,"Public Sector","Financial Performance","Administration and operating expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,87.00
+18731,"Public Sector","Financial Performance","Benefit payments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2605.00
+18732,"Public Sector","Financial Performance","Benefit payments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2605.00
+33496,"Public Sector","Performance Ratios","Cash flow adjusted net assets",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,121256.00
+33495,"Public Sector","Performance Ratios","Cash flow adjusted net assets",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,121256.00
+17970,"Public Sector","Financial Performance","Contribution tax and surcharge",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,184.00
+17969,"Public Sector","Financial Performance","Contribution tax and surcharge",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,184.00
+16963,"Public Sector","Financial Performance",Employer,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2516.00
+16964,"Public Sector","Financial Performance",Employer,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2516.00
+21280,"Public Sector","Financial Performance","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,155.00
+34335,"Public Sector","Performance Ratios","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,155.00
+34336,"Public Sector","Performance Ratios","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,155.00
+21279,"Public Sector","Financial Performance","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,155.00
+33832,"Public Sector","Performance Ratios","Investment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,77.00
+33831,"Public Sector","Performance Ratios","Investment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,77.00
+20608,"Public Sector","Financial Performance","Investment expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,77.00
+20607,"Public Sector","Financial Performance","Investment expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,77.00
+20005,"Public Sector","Financial Performance","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,984.00
+33663,"Public Sector","Performance Ratios","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,984.00
+33664,"Public Sector","Performance Ratios","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,984.00
+20006,"Public Sector","Financial Performance","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,984.00
+20174,"Public Sector","Financial Performance","Investment income after impairment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,203.00
+20173,"Public Sector","Financial Performance","Investment income after impairment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,203.00
+19669,"Public Sector","Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5.00
+18395,"Public Sector","Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,442.00
+19670,"Public Sector","Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5.00
+18396,"Public Sector","Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,442.00
+18900,"Public Sector","Financial Performance","Lump sums",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,903.00
+18899,"Public Sector","Financial Performance","Lump sums",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,903.00
+17409,"Public Sector","Financial Performance",Member,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,447.00
+17410,"Public Sector","Financial Performance",Member,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,447.00
+33160,"Public Sector","Performance Ratios","Net assets at beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,121285.00
+33159,"Public Sector","Performance Ratios","Net assets at beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,121285.00
+16627,"Public Sector","Financial Performance","Net assets at the beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,121285.00
+16628,"Public Sector","Financial Performance","Net assets at the beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,121285.00
+21952,"Public Sector","Financial Performance","Net assets at the end of the quarter",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,123448.00
+21951,"Public Sector","Financial Performance","Net assets at the end of the quarter",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,123448.00
+18137,"Public Sector","Financial Performance","Net benefit transfers",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-229.00
+18138,"Public Sector","Financial Performance","Net benefit transfers",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-229.00
+33327,"Public Sector","Performance Ratios","Net cash flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-58.00
+33328,"Public Sector","Performance Ratios","Net cash flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-58.00
+19334,"Public Sector","Financial Performance","Net contribution flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,130.00
+19333,"Public Sector","Financial Performance","Net contribution flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,130.00
+21111,"Public Sector","Financial Performance","Net earnings",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,838.00
+21112,"Public Sector","Financial Performance","Net earnings",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,838.00
+21448,"Public Sector","Financial Performance","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,682.00
+34504,"Public Sector","Performance Ratios","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,682.00
+34503,"Public Sector","Performance Ratios","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,682.00
+21447,"Public Sector","Financial Performance","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,682.00
+19501,"Public Sector","Financial Performance","Net insurance flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-3.00
+19502,"Public Sector","Financial Performance","Net insurance flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-3.00
+21616,"Public Sector","Financial Performance","Net operating performance after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,624.00
+21615,"Public Sector","Financial Performance","Net operating performance after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,624.00
+20775,"Public Sector","Financial Performance","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,18.00
+20776,"Public Sector","Financial Performance","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,18.00
+33999,"Public Sector","Performance Ratios","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,18.00
+34000,"Public Sector","Performance Ratios","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,18.00
+21783,"Public Sector","Financial Performance","Other changes",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1538.00
+21784,"Public Sector","Financial Performance","Other changes",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1538.00
+19838,"Public Sector","Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,9.00
+18564,"Public Sector","Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,670.00
+18563,"Public Sector","Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,670.00
+19837,"Public Sector","Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,9.00
+19067,"Public Sector","Financial Performance",Pensions,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1703.00
+19068,"Public Sector","Financial Performance",Pensions,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1703.00
+34672,"Public Sector","Performance Ratios","Rate of Return (%)",0,%,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.01
+34671,"Public Sector","Performance Ratios","Rate of Return (%)",0,%,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.01
+16796,"Public Sector","Financial Performance","Total contributions",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2964.00
+16795,"Public Sector","Financial Performance","Total contributions",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2964.00
+20341,"Public Sector","Financial Performance","Total gains/losses on investments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,782.00
+20342,"Public Sector","Financial Performance","Total gains/losses on investments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,782.00
+35990,Retail,"Performance Ratios","Administration and operating expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,438.00
+35989,Retail,"Performance Ratios","Administration and operating expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,438.00
+26495,Retail,"Financial Performance","Administration and operating expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,438.00
+26496,Retail,"Financial Performance","Administration and operating expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,438.00
+24256,Retail,"Financial Performance","Benefit payments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,467.00
+24255,Retail,"Financial Performance","Benefit payments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,467.00
+35309,Retail,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,230844.00
+35310,Retail,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,230844.00
+23483,Retail,"Financial Performance","Contribution tax and surcharge",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,542.00
+23484,Retail,"Financial Performance","Contribution tax and surcharge",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,542.00
+22460,Retail,"Financial Performance",Employer,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2718.00
+22459,Retail,"Financial Performance",Employer,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2718.00
+36159,Retail,"Performance Ratios","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,29.00
+36160,Retail,"Performance Ratios","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,29.00
+26836,Retail,"Financial Performance","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,29.00
+26835,Retail,"Financial Performance","Income tax expense/benefit",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,29.00
+35650,Retail,"Performance Ratios","Investment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,86.00
+35649,Retail,"Performance Ratios","Investment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,86.00
+26155,Retail,"Financial Performance","Investment expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,86.00
+26156,Retail,"Financial Performance","Investment expenses",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,86.00
+25546,Retail,"Financial Performance","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2215.00
+25545,Retail,"Financial Performance","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2215.00
+35480,Retail,"Performance Ratios","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2215.00
+35479,Retail,"Performance Ratios","Investment income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2215.00
+25715,Retail,"Financial Performance","Investment income after impairment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1052.00
+25716,Retail,"Financial Performance","Investment income after impairment expense",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1052.00
+23916,Retail,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,7734.00
+25206,Retail,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,79.00
+25205,Retail,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,79.00
+23915,Retail,"Financial Performance",Inward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,7734.00
+24425,Retail,"Financial Performance","Lump sums",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-160.00
+24426,Retail,"Financial Performance","Lump sums",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-160.00
+22914,Retail,"Financial Performance",Member,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2348.00
+22913,Retail,"Financial Performance",Member,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2348.00
+34969,Retail,"Performance Ratios","Net assets at beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,229573.00
+34970,Retail,"Performance Ratios","Net assets at beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,229573.00
+22119,Retail,"Financial Performance","Net assets at the beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,229573.00
+22120,Retail,"Financial Performance","Net assets at the beginning of the period",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,229573.00
+27516,Retail,"Financial Performance","Net assets at the end of the quarter",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,234318.00
+27515,Retail,"Financial Performance","Net assets at the end of the quarter",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,234318.00
+23653,Retail,"Financial Performance","Net benefit transfers",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-1371.00
+23654,Retail,"Financial Performance","Net benefit transfers",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-1371.00
+35140,Retail,"Performance Ratios","Net cash flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2541.00
+35139,Retail,"Performance Ratios","Net cash flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,2541.00
+24865,Retail,"Financial Performance","Net contribution flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3228.00
+24866,Retail,"Financial Performance","Net contribution flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,3228.00
+26666,Retail,"Financial Performance","Net earnings",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1720.00
+26665,Retail,"Financial Performance","Net earnings",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1720.00
+27005,Retail,"Financial Performance","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1691.00
+36330,Retail,"Performance Ratios","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1691.00
+36329,Retail,"Performance Ratios","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1691.00
+27006,Retail,"Financial Performance","Net earnings after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1691.00
+25036,Retail,"Financial Performance","Net insurance flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-145.00
+25035,Retail,"Financial Performance","Net insurance flows",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,-145.00
+27175,Retail,"Financial Performance","Net operating performance after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,4233.00
+27176,Retail,"Financial Performance","Net operating performance after tax",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,4233.00
+26326,Retail,"Financial Performance","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,29.00
+26325,Retail,"Financial Performance","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,29.00
+35819,Retail,"Performance Ratios","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,29.00
+35820,Retail,"Performance Ratios","Operating income",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,29.00
+27346,Retail,"Financial Performance","Other changes",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,512.00
+27345,Retail,"Financial Performance","Other changes",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,512.00
+25376,Retail,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,224.00
+24086,Retail,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,9105.00
+24085,Retail,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,9105.00
+25375,Retail,"Financial Performance",Outward,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,224.00
+24595,Retail,"Financial Performance",Pensions,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,627.00
+24596,Retail,"Financial Performance",Pensions,0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,627.00
+36500,Retail,"Performance Ratios","Rate of Return (%)",0,%,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.01
+36499,Retail,"Performance Ratios","Rate of Return (%)",0,%,"Mar 2005",2005-03-01,2005,3,2005,Q3,0.01
+22290,Retail,"Financial Performance","Total contributions",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5066.00
+22289,Retail,"Financial Performance","Total contributions",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,5066.00
+25885,Retail,"Financial Performance","Total gains/losses on investments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1162.00
+25886,Retail,"Financial Performance","Total gains/losses on investments",0,$m,"Mar 2005",2005-03-01,2005,3,2005,Q3,1162.00
+28708,"All Funds","Performance Ratios","Administration and operating expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,902.00
+28707,"All Funds","Performance Ratios","Administration and operating expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,902.00
+4381,"All Funds","Financial Performance","Administration and operating expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,902.00
+4382,"All Funds","Financial Performance","Administration and operating expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,902.00
+2142,"All Funds","Financial Performance","Benefit payments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,6188.00
+2141,"All Funds","Financial Performance","Benefit payments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,6188.00
+28027,"All Funds","Performance Ratios","Cash flow adjusted net assets",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,511813.00
+28028,"All Funds","Performance Ratios","Cash flow adjusted net assets",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,511813.00
+1369,"All Funds","Financial Performance","Contribution tax and surcharge",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1773.00
+1370,"All Funds","Financial Performance","Contribution tax and surcharge",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1773.00
+346,"All Funds","Financial Performance",Employer,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,11708.00
+345,"All Funds","Financial Performance",Employer,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,11708.00
+4721,"All Funds","Financial Performance","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,210.00
+28878,"All Funds","Performance Ratios","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,210.00
+28877,"All Funds","Performance Ratios","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,210.00
+4722,"All Funds","Financial Performance","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,210.00
+28367,"All Funds","Performance Ratios","Investment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,282.00
+28368,"All Funds","Performance Ratios","Investment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,282.00
+4042,"All Funds","Financial Performance","Investment expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,282.00
+4041,"All Funds","Financial Performance","Investment expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,282.00
+3431,"All Funds","Financial Performance","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,16974.00
+3432,"All Funds","Financial Performance","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,16974.00
+28198,"All Funds","Performance Ratios","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,16974.00
+28197,"All Funds","Performance Ratios","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,16974.00
+3602,"All Funds","Financial Performance","Investment income after impairment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,9120.00
+3601,"All Funds","Financial Performance","Investment income after impairment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,9120.00
+1801,"All Funds","Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,14200.00
+3091,"All Funds","Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,204.00
+1802,"All Funds","Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,14200.00
+3092,"All Funds","Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,204.00
+2312,"All Funds","Financial Performance","Lump sums",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3584.00
+2311,"All Funds","Financial Performance","Lump sums",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3584.00
+799,"All Funds","Financial Performance",Member,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,5009.00
+800,"All Funds","Financial Performance",Member,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,5009.00
+27687,"All Funds","Performance Ratios","Net assets at beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,506506.00
+27688,"All Funds","Performance Ratios","Net assets at beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,506506.00
+6,"All Funds","Financial Performance","Net assets at the beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,506506.00
+5,"All Funds","Financial Performance","Net assets at the beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,506506.00
+5401,"All Funds","Financial Performance","Net assets at the end of the quarter",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,527747.00
+5402,"All Funds","Financial Performance","Net assets at the end of the quarter",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,527747.00
+1540,"All Funds","Financial Performance","Net benefit transfers",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2050.00
+1539,"All Funds","Financial Performance","Net benefit transfers",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2050.00
+27857,"All Funds","Performance Ratios","Net cash flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,10615.00
+27858,"All Funds","Performance Ratios","Net cash flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,10615.00
+2751,"All Funds","Financial Performance","Net contribution flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,12579.00
+2752,"All Funds","Financial Performance","Net contribution flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,12579.00
+4552,"All Funds","Financial Performance","Net earnings",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,15866.00
+4551,"All Funds","Financial Performance","Net earnings",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,15866.00
+4891,"All Funds","Financial Performance","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,15656.00
+4892,"All Funds","Financial Performance","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,15656.00
+29048,"All Funds","Performance Ratios","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,15656.00
+29047,"All Funds","Performance Ratios","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,15656.00
+2922,"All Funds","Financial Performance","Net insurance flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-192.00
+2921,"All Funds","Financial Performance","Net insurance flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-192.00
+5061,"All Funds","Financial Performance","Net operating performance after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,26271.00
+5062,"All Funds","Financial Performance","Net operating performance after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,26271.00
+4212,"All Funds","Financial Performance","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,76.00
+4211,"All Funds","Financial Performance","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,76.00
+28538,"All Funds","Performance Ratios","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,76.00
+28537,"All Funds","Performance Ratios","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,76.00
+5231,"All Funds","Financial Performance","Other changes",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-5029.00
+5232,"All Funds","Financial Performance","Other changes",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-5029.00
+1972,"All Funds","Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,12150.00
+3262,"All Funds","Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,396.00
+3261,"All Funds","Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,396.00
+1971,"All Funds","Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,12150.00
+2481,"All Funds","Financial Performance",Pensions,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2604.00
+2482,"All Funds","Financial Performance",Pensions,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2604.00
+29217,"All Funds","Performance Ratios","Rate of Return (%)",0,%,"Jun 2005",2005-06-01,2005,6,2005,Q4,0.03
+29218,"All Funds","Performance Ratios","Rate of Return (%)",0,%,"Jun 2005",2005-06-01,2005,6,2005,Q4,0.03
+175,"All Funds","Financial Performance","Total contributions",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,16717.00
+176,"All Funds","Financial Performance","Total contributions",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,16717.00
+3772,"All Funds","Financial Performance","Total gains/losses on investments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,7854.00
+3771,"All Funds","Financial Performance","Total gains/losses on investments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,7854.00
+30540,Corporate,"Performance Ratios","Administration and operating expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,30.00
+30539,Corporate,"Performance Ratios","Administration and operating expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,30.00
+9948,Corporate,"Financial Performance","Administration and operating expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,30.00
+9947,Corporate,"Financial Performance","Administration and operating expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,30.00
+7707,Corporate,"Financial Performance","Benefit payments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,267.00
+7708,Corporate,"Financial Performance","Benefit payments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,267.00
+29859,Corporate,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,40740.00
+29860,Corporate,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,40740.00
+6936,Corporate,"Financial Performance","Contribution tax and surcharge",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,146.00
+6935,Corporate,"Financial Performance","Contribution tax and surcharge",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,146.00
+5911,Corporate,"Financial Performance",Employer,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,562.00
+5912,Corporate,"Financial Performance",Employer,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,562.00
+10288,Corporate,"Financial Performance","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,67.00
+10287,Corporate,"Financial Performance","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,67.00
+30709,Corporate,"Performance Ratios","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,67.00
+30710,Corporate,"Performance Ratios","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,67.00
+30200,Corporate,"Performance Ratios","Investment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,37.00
+30199,Corporate,"Performance Ratios","Investment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,37.00
+9608,Corporate,"Financial Performance","Investment expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,37.00
+9607,Corporate,"Financial Performance","Investment expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,37.00
+8997,Corporate,"Financial Performance","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1341.00
+30030,Corporate,"Performance Ratios","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1341.00
+30029,Corporate,"Performance Ratios","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1341.00
+8998,Corporate,"Financial Performance","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1341.00
+9168,Corporate,"Financial Performance","Investment income after impairment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,750.00
+9167,Corporate,"Financial Performance","Investment income after impairment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,750.00
+8657,Corporate,"Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,12.00
+7367,Corporate,"Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,174.00
+8658,Corporate,"Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,12.00
+7368,Corporate,"Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,174.00
+7878,Corporate,"Financial Performance","Lump sums",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,199.00
+7877,Corporate,"Financial Performance","Lump sums",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,199.00
+6365,Corporate,"Financial Performance",Member,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,80.00
+6366,Corporate,"Financial Performance",Member,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,80.00
+29519,Corporate,"Performance Ratios","Net assets at beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,41101.00
+29520,Corporate,"Performance Ratios","Net assets at beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,41101.00
+5571,Corporate,"Financial Performance","Net assets at the beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,41101.00
+5572,Corporate,"Financial Performance","Net assets at the beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,41101.00
+10968,Corporate,"Financial Performance","Net assets at the end of the quarter",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,40900.00
+10967,Corporate,"Financial Performance","Net assets at the end of the quarter",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,40900.00
+7105,Corporate,"Financial Performance","Net benefit transfers",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-947.00
+7106,Corporate,"Financial Performance","Net benefit transfers",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-947.00
+29689,Corporate,"Performance Ratios","Net cash flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-722.00
+29690,Corporate,"Performance Ratios","Net cash flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-722.00
+8318,Corporate,"Financial Performance","Net contribution flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-572.00
+8317,Corporate,"Financial Performance","Net contribution flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-572.00
+10117,Corporate,"Financial Performance","Net earnings",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1277.00
+10118,Corporate,"Financial Performance","Net earnings",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1277.00
+10458,Corporate,"Financial Performance","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1210.00
+30880,Corporate,"Performance Ratios","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1210.00
+30879,Corporate,"Performance Ratios","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1210.00
+10457,Corporate,"Financial Performance","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1210.00
+8487,Corporate,"Financial Performance","Net insurance flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-4.00
+8488,Corporate,"Financial Performance","Net insurance flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-4.00
+10628,Corporate,"Financial Performance","Net operating performance after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,489.00
+10627,Corporate,"Financial Performance","Net operating performance after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,489.00
+9777,Corporate,"Financial Performance","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,4.00
+9778,Corporate,"Financial Performance","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,4.00
+30369,Corporate,"Performance Ratios","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,4.00
+30370,Corporate,"Performance Ratios","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,4.00
+10797,Corporate,"Financial Performance","Other changes",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-689.00
+10798,Corporate,"Financial Performance","Other changes",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-689.00
+8828,Corporate,"Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,15.00
+7538,Corporate,"Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1120.00
+8827,Corporate,"Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,15.00
+7537,Corporate,"Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1120.00
+8047,Corporate,"Financial Performance",Pensions,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,69.00
+8048,Corporate,"Financial Performance",Pensions,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,69.00
+31049,Corporate,"Performance Ratios","Rate of Return (%)",0,%,"Jun 2005",2005-06-01,2005,6,2005,Q4,0.03
+31050,Corporate,"Performance Ratios","Rate of Return (%)",0,%,"Jun 2005",2005-06-01,2005,6,2005,Q4,0.03
+5742,Corporate,"Financial Performance","Total contributions",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,642.00
+5741,Corporate,"Financial Performance","Total contributions",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,642.00
+9337,Corporate,"Financial Performance","Total gains/losses on investments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,591.00
+9338,Corporate,"Financial Performance","Total gains/losses on investments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,591.00
+32360,Industry,"Performance Ratios","Administration and operating expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,119.00
+32359,Industry,"Performance Ratios","Administration and operating expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,119.00
+15453,Industry,"Financial Performance","Administration and operating expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,119.00
+15454,Industry,"Financial Performance","Administration and operating expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,119.00
+13242,Industry,"Financial Performance","Benefit payments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,633.00
+13241,Industry,"Financial Performance","Benefit payments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,633.00
+31687,Industry,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,109820.00
+31688,Industry,"Performance Ratios","Cash flow adjusted net assets",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,109820.00
+12479,Industry,"Financial Performance","Contribution tax and surcharge",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,559.00
+12480,Industry,"Financial Performance","Contribution tax and surcharge",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,559.00
+11474,Industry,"Financial Performance",Employer,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3510.00
+11473,Industry,"Financial Performance",Employer,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3510.00
+15789,Industry,"Financial Performance","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-10.00
+32528,Industry,"Performance Ratios","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-10.00
+32527,Industry,"Performance Ratios","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-10.00
+15790,Industry,"Financial Performance","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-10.00
+32023,Industry,"Performance Ratios","Investment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,72.00
+32024,Industry,"Performance Ratios","Investment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,72.00
+15118,Industry,"Financial Performance","Investment expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,72.00
+15117,Industry,"Financial Performance","Investment expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,72.00
+14515,Industry,"Financial Performance","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2617.00
+14516,Industry,"Financial Performance","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2617.00
+31856,Industry,"Performance Ratios","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2617.00
+31855,Industry,"Performance Ratios","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2617.00
+14684,Industry,"Financial Performance","Investment income after impairment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1443.00
+14683,Industry,"Financial Performance","Investment income after impairment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1443.00
+12905,Industry,"Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2447.00
+14179,Industry,"Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,84.00
+14180,Industry,"Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,84.00
+12906,Industry,"Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2447.00
+13410,Industry,"Financial Performance","Lump sums",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,579.00
+13409,Industry,"Financial Performance","Lump sums",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,579.00
+11919,Industry,"Financial Performance",Member,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,553.00
+11920,Industry,"Financial Performance",Member,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,553.00
+31351,Industry,"Performance Ratios","Net assets at beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,107639.00
+31352,Industry,"Performance Ratios","Net assets at beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,107639.00
+11138,Industry,"Financial Performance","Net assets at the beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,107639.00
+11137,Industry,"Financial Performance","Net assets at the beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,107639.00
+16461,Industry,"Financial Performance","Net assets at the end of the quarter",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,111657.00
+16462,Industry,"Financial Performance","Net assets at the end of the quarter",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,111657.00
+12648,Industry,"Financial Performance","Net benefit transfers",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1531.00
+12647,Industry,"Financial Performance","Net benefit transfers",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1531.00
+31520,Industry,"Performance Ratios","Net cash flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,4362.00
+31519,Industry,"Performance Ratios","Net cash flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,4362.00
+13843,Industry,"Financial Performance","Net contribution flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,4962.00
+13844,Industry,"Financial Performance","Net contribution flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,4962.00
+15622,Industry,"Financial Performance","Net earnings",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2430.00
+15621,Industry,"Financial Performance","Net earnings",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2430.00
+15957,Industry,"Financial Performance","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2439.00
+15958,Industry,"Financial Performance","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2439.00
+32696,Industry,"Performance Ratios","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2439.00
+32695,Industry,"Performance Ratios","Net earnings after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2439.00
+14012,Industry,"Financial Performance","Net insurance flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-41.00
+14011,Industry,"Financial Performance","Net insurance flows",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-41.00
+16125,Industry,"Financial Performance","Net operating performance after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,6801.00
+16126,Industry,"Financial Performance","Net operating performance after tax",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,6801.00
+15286,Industry,"Financial Performance","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3.00
+15285,Industry,"Financial Performance","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3.00
+32191,Industry,"Performance Ratios","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3.00
+32192,Industry,"Performance Ratios","Operating income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3.00
+16293,Industry,"Financial Performance","Other changes",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-2783.00
+16294,Industry,"Financial Performance","Other changes",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,-2783.00
+13074,Industry,"Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,916.00
+14348,Industry,"Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,125.00
+14347,Industry,"Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,125.00
+13073,Industry,"Financial Performance",Outward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,916.00
+13577,Industry,"Financial Performance",Pensions,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,54.00
+13578,Industry,"Financial Performance",Pensions,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,54.00
+32864,Industry,"Performance Ratios","Rate of Return (%)",0,%,"Jun 2005",2005-06-01,2005,6,2005,Q4,0.02
+32863,Industry,"Performance Ratios","Rate of Return (%)",0,%,"Jun 2005",2005-06-01,2005,6,2005,Q4,0.02
+11305,Industry,"Financial Performance","Total contributions",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,4064.00
+11306,Industry,"Financial Performance","Total contributions",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,4064.00
+14852,Industry,"Financial Performance","Total gains/losses on investments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1175.00
+14851,Industry,"Financial Performance","Total gains/losses on investments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1175.00
+34169,"Public Sector","Performance Ratios","Administration and operating expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,95.00
+34170,"Public Sector","Performance Ratios","Administration and operating expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,95.00
+20946,"Public Sector","Financial Performance","Administration and operating expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,95.00
+20945,"Public Sector","Financial Performance","Administration and operating expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,95.00
+18733,"Public Sector","Financial Performance","Benefit payments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2631.00
+18734,"Public Sector","Financial Performance","Benefit payments",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,2631.00
+33498,"Public Sector","Performance Ratios","Cash flow adjusted net assets",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,124162.00
+33497,"Public Sector","Performance Ratios","Cash flow adjusted net assets",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,124162.00
+17972,"Public Sector","Financial Performance","Contribution tax and surcharge",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,268.00
+17971,"Public Sector","Financial Performance","Contribution tax and surcharge",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,268.00
+16965,"Public Sector","Financial Performance",Employer,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3414.00
+16966,"Public Sector","Financial Performance",Employer,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3414.00
+21282,"Public Sector","Financial Performance","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,9.00
+34337,"Public Sector","Performance Ratios","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,9.00
+34338,"Public Sector","Performance Ratios","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,9.00
+21281,"Public Sector","Financial Performance","Income tax expense/benefit",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,9.00
+33834,"Public Sector","Performance Ratios","Investment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,90.00
+33833,"Public Sector","Performance Ratios","Investment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,90.00
+20610,"Public Sector","Financial Performance","Investment expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,90.00
+20609,"Public Sector","Financial Performance","Investment expenses",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,90.00
+20007,"Public Sector","Financial Performance","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,5796.00
+33665,"Public Sector","Performance Ratios","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,5796.00
+33666,"Public Sector","Performance Ratios","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,5796.00
+20008,"Public Sector","Financial Performance","Investment income",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,5796.00
+20176,"Public Sector","Financial Performance","Investment income after impairment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3708.00
+20175,"Public Sector","Financial Performance","Investment income after impairment expense",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,3708.00
+18397,"Public Sector","Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,457.00
+19671,"Public Sector","Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,6.00
+19672,"Public Sector","Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,6.00
+18398,"Public Sector","Financial Performance",Inward,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,457.00
+18902,"Public Sector","Financial Performance","Lump sums",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,907.00
+18901,"Public Sector","Financial Performance","Lump sums",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,907.00
+17411,"Public Sector","Financial Performance",Member,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1033.00
+17412,"Public Sector","Financial Performance",Member,0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,1033.00
+33162,"Public Sector","Performance Ratios","Net assets at beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,123448.00
+33161,"Public Sector","Performance Ratios","Net assets at beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,123448.00
+16629,"Public Sector","Financial Performance","Net assets at the beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,123448.00
+16630,"Public Sector","Financial Performance","Net assets at the beginning of the period",0,$m,"Jun 2005",2005-06-01,2005,6,2005,Q4,123448.00
