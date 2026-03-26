@@ -78,9 +78,6 @@ Published & auto-refreshing dashboard
 - Reference lines for economic events (GFC, COVID)
 - Cross-page consistent colour theme
 
-## Live Dashboard
-[View on Power BI Service](#) ← paste your share link here
-
 ## Screenshots
 | Page 1 — Performance | Page 2 — Asset Allocation |
 |---|---|
